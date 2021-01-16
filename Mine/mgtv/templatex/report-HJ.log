@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.15)  16 OCT 2020 17:53
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.15)  16 JAN 2021 13:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1168,61 +1168,42 @@ Package microtype Info: Loading generic protrusion settings for font family
 \openout7 = `report-HJ.toc'.
 
  [1] (./mainbody.tex
-Underfull \hbox (badness 10000) in paragraph at lines 5--19
+Underfull \hbox (badness 10000) in paragraph at lines 15--20
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
  []
 
+File: kaggle/01.1.eps Graphic file (type eps)
+<kaggle/01.1.eps>
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
-
+Overfull \hbox (86.39845pt too wide) in paragraph at lines 45--47
+ [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 43--49
+ []$ 
  []
 
+File: kaggle/01.3.eps Graphic file (type eps)
+<kaggle/01.3.eps>
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--58
-
- []
-
-File: kaggle/1.eps Graphic file (type eps)
-<kaggle/1.eps>
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--72
-
- []
-
-Invalid UTF-8 byte or sequence at line 72 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 72 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 72 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 72 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 72 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 72 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 72 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 63 replaced by U+FFFD.
 File: logos/tulip-logo.eps Graphic file (type eps)
 <logos/tulip-logo.eps>
+
 
 Package Fancyhdr Warning: \footskip is too small (12.0pt): 
 Make it at least 14.79996pt.
@@ -1230,62 +1211,36 @@ We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
 [2]
-File: kaggle/5.eps Graphic file (type eps)
-<kaggle/5.eps>
-File: kaggle/7.1.eps Graphic file (type eps)
-<kaggle/7.1.eps>
-File: kaggle/8.1.eps Graphic file (type eps)
-<kaggle/8.1.eps>
-File: kaggle/9.eps Graphic file (type eps)
-<kaggle/9.eps>
+File: kaggle/1.8.eps Graphic file (type eps)
+<kaggle/1.8.eps>
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+File: kaggle/1.1.eps Graphic file (type eps)
+<kaggle/1.1.eps>
+File: kaggle/1.2.eps Graphic file (type eps)
+<kaggle/1.2.eps>
+File: kaggle/1.3.eps Graphic file (type eps)
+<kaggle/1.3.eps>
 
-Underfull \vbox (badness 5050) has occurred while \output is active []
+Underfull \vbox (badness 1960) has occurred while \output is active []
 
 File: logos/tulip-logo.eps Graphic file (type eps)
 <logos/tulip-logo.eps>
  [3]
-Overfull \hbox (7.24pt too wide) in paragraph at lines 125--128
-\TU/lmr/m/n/10 the Southern district having the most incidents (17.87%) followed by Mission (13.67%)
- []
-
-File: kaggle/10.eps Graphic file (type eps)
-<kaggle/10.eps>
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--151
-
- []
-
-File: kaggle/11.1.eps Graphic file (type eps)
-<kaggle/11.1.eps>
+File: kaggle/1.4.eps Graphic file (type eps)
+<kaggle/1.4.eps>
+File: kaggle/1.5.eps Graphic file (type eps)
+<kaggle/1.5.eps>
+File: kaggle/1.6.eps Graphic file (type eps)
+<kaggle/1.6.eps>
 File: logos/tulip-logo.eps Graphic file (type eps)
 <logos/tulip-logo.eps>
-[4]
-File: kaggle/12.eps Graphic file (type eps)
-<kaggle/12.eps>
-
-Underfull \hbox (badness 10000) in paragraph at lines 207--224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 207--224
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 207--224
-
- []
-
-File: logos/tulip-logo.eps Graphic file (type eps)
-<logos/tulip-logo.eps>
-[5]
-File: kaggle/14.eps Graphic file (type eps)
-<kaggle/14.eps>
+ [4]
+File: kaggle/1.7.eps Graphic file (type eps)
+<kaggle/1.7.eps>
 )
 File: logos/tulip-logo.eps Graphic file (type eps)
 <logos/tulip-logo.eps>
- [6]
+ [5]
 No file report-HJ.bbl.
 (./report-HJ.tdo)
 \tf@tdo=\write8
@@ -1297,24 +1252,24 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 File: logos/tulip-logo.eps Graphic file (type eps)
 <logos/tulip-logo.eps>
- [7]
+ [6]
 No complaints by nag.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
 (./report-HJ.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 70.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 78.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 Package rerunfilecheck Info: File `report-HJ.out' has not changed.
-(rerunfilecheck)             Checksum: DD9422005703D6DE1860BA7DC22809CA;412.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
+(rerunfilecheck)             Checksum: 4283D8321BFDFFBC4A94BBEACD580F02;317.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
- 34399 strings out of 479418
- 674425 string characters out of 5888105
- 1079889 words of memory out of 5000000
- 51078 multiletter control sequences out of 15000+600000
+ 34398 strings out of 479418
+ 674429 string characters out of 5888105
+ 1077847 words of memory out of 5000000
+ 51076 multiletter control sequences out of 15000+600000
  538986 words of font info for 61 fonts, out of 8000000 for 9000
  1509 hyphenation exceptions out of 8191
- 71i,12n,102p,966b,814s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,13n,102p,966b,818s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report-HJ.pdf (7 pages).
+Output written on report-HJ.pdf (6 pages).

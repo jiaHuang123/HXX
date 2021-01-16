@@ -1,0 +1,13 @@
+\pdcontentsline{1}{3}{Project Overview}
+\pdcontentsline{0}{4}{Project Background And Purpose}
+\pdcontentsline{1}{5}{Data Pre-Processing}
+\pdcontentsline{0}{6}{Date Processing}
+\pdcontentsline{0}{7}{Feature Item}
+\pdcontentsline{0}{8}{Features Item}
+\pdcontentsline{1}{9}{Constructing Dataset Generator}
+\pdcontentsline{0}{10}{Similarity}
+\pdcontentsline{0}{12}{The kernel distribution graph of word length}
+\pdcontentsline{0}{13}{The word cloud}
+\pdcontentsline{1}{14}{Model Construction and Training}
+\pdcontentsline{0}{15}{}
+\pdcontentsline{0}{16}{}

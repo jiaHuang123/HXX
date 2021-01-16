@@ -1,0 +1,79 @@
+\documentclass{amsart}
+\synctex=1
+
+%=================================================================
+% 
+\newcount\DraftStatus  % 0 suppresses notes to selves in text
+\DraftStatus=1   % TODO: set to 0 for final version
+%=================================================================
+
+%=================================================================
+\usepackage{comment}
+%=================================================================
+%
+\includecomment{JournalOnly}  
+\includecomment{ConferenceOnly}  
+\includecomment{TulipStyle}
+%
+%=================================================================
+\input{preamble}
+
+
+%=================================================================
+%
+\begin{document}
+%
+%=================================================================
+%
+\title[Tweet Sentiment Extraction]{ Tweet Sentiment Extraction}%
+
+\author{Jia Huang}
+\address[A.~1]{School of Computer Science,\\ 
+Xi'an Shiyou University, Shaanxi 710065, China}%
+\email[A.~1]{xxx@tulip.academy}
+
+
+%\thanks{Thanks to \ldots}%
+\subjclass{Artificial Intelligence}%
+\keywords{Emotional extract}%
+\date{\gitAuthorDate}%
+
+\begin{abstract}
+    With all of the tweets circulating every second it is hard 
+    to tell whether the sentiment behind a specific tweet will impact 
+    a company, or a person's, brand for being viral (positive), or 
+    devastate profit because it strikes a negative tone. Capturing sentiment
+     in language is 
+    important in these times where decisions and reactions are created and 
+    updated in seconds. But, which words actually lead to the sentiment description?
+    ~\\
+    In this competition we've extracted support phrases from Figure Eight's Data
+     for Everyone platform. The dataset is titled Sentiment Analysis: Emotion in 
+     Text tweets
+      with existing sentiment labels, used here under creative commons attribution
+       4.0. international licence. Your objective in this 
+      competition is to construct a model that can do the same - look at the 
+      labeled sentiment for a given tweet and figure out what
+       word or phrase best supports it.
+\end{abstract}
+
+\maketitle
+\tableofcontents
+
+\newpage
+%=================================================================
+
+\input{mainbody}
+
+% ----------------------------------------------------------------
+\newpage
+\bibliography{tuliplab,yourbib}
+% TODO: you should change this yourbib into a proper bib file name
+
+\bibliographystyle{plainnat}
+%=================================================================
+
+\listoftodos
+
+\end{document}
+
